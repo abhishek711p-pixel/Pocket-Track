@@ -1,6 +1,6 @@
 # Expense Tracker (FinFlow)
 
-![Expense Tracker UI](https://via.placeholder.com/800x400.png?text=Expense+Tracker+Dashboard)
+
 
 A sleek, modern personal finance dashboard designed to help you track your daily income and expenses with ease. Features an intuitive glassmorphic interface that gives you real-time insights into your net balance and spending habits.
 
